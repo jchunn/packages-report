@@ -18,3 +18,9 @@
 #in console, > rmarkdown::render("test.R")
 
 ## double hashtag
+
+
+
+  getwd()
+  
+  #new changes in .R file
