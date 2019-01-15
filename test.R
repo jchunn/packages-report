@@ -9,3 +9,10 @@
 # sec 2
 
 .libPaths()
+
+
+#  how to get a markdown file
+#add yaml at the top of the document
+#then hit knitR button
+#OR 
+#in console, > rmarkdown::render("test.R")
