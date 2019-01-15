@@ -1,7 +1,7 @@
 test.R
 ================
 BY22
-Tue Jan 15 15:10:05 2019
+Tue Jan 15 15:13:35 2019
 
 ``` r
 # section 1
@@ -26,4 +26,6 @@ Tue Jan 15 15:10:05 2019
 #then hit knitR button
 #OR 
 #in console, > rmarkdown::render("test.R")
+
+## double hashtag
 ```
