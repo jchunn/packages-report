@@ -1,5 +1,4 @@
 #' ---
-#' title: "test file as github document"
 #' output: github_document
 #' ---
 
