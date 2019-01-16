@@ -24,3 +24,7 @@
   getwd()
   
   #new changes in .R file
+  
+  
+  usethis::use_course("rstd.io/wtf-startup")
+  
